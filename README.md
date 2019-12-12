@@ -12,7 +12,7 @@ The results are as follows:
 | Firefox 71  |  |
 | ------------- | ------------- |
 | Original  | 43ms  |
-| PR  | 17ms  |
+| PR  | 6ms  |
 
 
 To run the 2 samples, just go to the respective folder and start a http server at port 8080. After that, run http://localhost:8080/index.html in your browser.
